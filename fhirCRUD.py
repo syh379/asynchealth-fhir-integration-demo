@@ -50,9 +50,9 @@ def create_patient(
     fhir_store_name = f"{fhir_store_parent}/fhirStores/{fhir_store_id}"
 
     patient_body = {
-        "name": [{"use": "official", "family": "Doe", "given": ["Katherine"]}],
-        "gender": "female",
-        "birthDate": "1982-06-21",
+        "name": [{"use": "official", "family": "Selinger", "given": ["David"]}],
+        "gender": "male",
+        "birthDate": "1975-06-21",
         "resourceType": "Patient",
     }
 
@@ -129,8 +129,8 @@ def update_resource(
         "active": True,
         "id": resource_id,
         "gender": "male",
-        "birthDate": "1980-05-01",
-        "name": [{"use": "official", "family": "Doe", "given": ["Katherine"]}],
+        "birthDate": "1978-05-01",
+        "name": [{"use": "official", "family": "Selinger", "given": ["David"]}],
     }
 
     request = (
@@ -272,4 +272,4 @@ def delete_resource(
 patient = create_patient(project_id, location, dataset_id, fhir_store_id)
 update_resource(project_id, location, dataset_id, fhir_store_id, "Patient", patient["id"])
 get_resource(project_id, location, dataset_id, fhir_store_id, "Patient", patient["id"])
-delete_resource(project_id, location, dataset_id, fhir_store_id, "Patient", patient["id"])
+# delete_resource(project_id, location, dataset_id, fhir_store_id, "Patient", patient["id"])
