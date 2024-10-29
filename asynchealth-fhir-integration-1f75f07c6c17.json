@@ -1,13 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "asynchealth-fhir-integration",
-  "private_key_id": "1f75f07c6c1750ec0212231c97e614e178354991",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDNffoXyb4Fv/D3\n1fJ64co58WmaBo64w9FZrC9HbSyBrcc6/GUzU/MhnmMzghVNhiM8YEQ3nSev4+Ig\nf1vb4hOiqDfAJLROVprXB2MKKEst7UCfet3qQWlHJFu1G49MUvxiF9Wzn7iCwcfC\nNErzR3mVwLpubvfM6xQ/7wWPg3yGoqLB7o2BzUxmTrFYGqdq7XHp0f55ziggUhF5\nr0ar5GG6RS+FWr7BbNZ4lBZYLm6RO0BhY7T+j+E8xr7BSLwzHltW9uNMBLFQdMxr\nbuCXDVkT9NfYqi1JRx4gVMYOUiDXAAqt5W6LFcoKfklFuH5S90M01Kipf6g2k7L9\nw8Ykva2bAgMBAAECggEAYCVSyCGI6rjJXrQ4PV16mIzHK51o1rMsNyg0gNdobQ5p\nesRP92mOhwrMAHQbUofx4ZRrJpg90vKtQSZFzQYkyMSrPRgPUt37maNnp/99WXI5\n+8Rpo2rSfspYrE7GR+BGHQFo6B/RnUBcnhWIgfZNwY8Iy5XZFIRjF5zWvbS4JWeJ\nW7J4vPrJmycPo0elNYMmoX/lnUmeFp6dSW09CC2V0iM+axqhnzWWk+vJ2kQ20Icq\nz9O8o4BgNaUQTL75N6n/SH0W5iamonkcanvCmXi6tdAYCO8I92QSeHWSrXKSXKq8\nuEAg/CSE5OBJ0vPmbKcHWJuZlm7qkeNFi3FCS4MaNQKBgQDnHy4F+P1euPrytjV7\n0mMujYLPkDu3E/rT7F2XN9xdcYPsZwc/tOvsAf1OH3j2+GV2FTSjqjjCEyvruOI5\n85GlUX/H7UThnfLme4DkMAt+nraTUNgZhmxJqlv1DSxurG0RPQRTcLEJnyJC365L\nbR9rTLxuKooxHc3O/FXRze/NVQKBgQDjnIrEwosOIhHSLIB+WdWSPv8weNia4aou\nZypVjAMOwGhk4+KKc0dB5zSf0l69hgrY9CnJlUBR19KrT7RMSQx1e1/2C5iNq7BM\nBSAfkKsq2wHMpskKYt2NgUvsG7tH74PBc1fsJMVcww+YYstkhaEK6FmHwjL7hWhP\njkcW3fMPLwKBgCIl3jPttOnQ5OsFduODkznmmKQ4SEplflLfgnh8PWflBLviARUt\nkwn8xUNMrR+4Va1btrpTxS0Pjha2613qmeNWJk4QxXOcVa4uIz4Txy7/HjSn5jXn\nQYqkzA9p0d3MRhUc8c2uQcoNJA/DYsosJk9BODoCuQZGxAjICZoFFmA9AoGAbNvB\nwrkIqInC3DJMgiGU840Nn7EsZ2bmbasJpECCdduwEhCrmGvp+KsLkCSdCyfAqGKe\nWbr4OCxwpV5JbPLC8q0/B/4jyB4FA1awNmiKdMSp56cdH8qJC9R660GYIJ989Fim\nBFrRybvBCbC2di0zCHR33WYT3BfB+8qgVV9xkCECgYEAtGfNPHnbrRFoqYlERWkK\nnHhvrnZPd3Mv1GOW4fo+XCgnsx83pnnCb0fYPFLIAj0KeBs0jLN783+dgcMvklZC\nXasovWBKFk7tlN8yOSukDqGDqt+jV6eBTWwtZ/pq3HyVDdt9xvRetgQ4NQIDd6mr\njuSi2kFllo36/huDiE0MFuk=\n-----END PRIVATE KEY-----\n",
-  "client_email": "demo-fhir@asynchealth-fhir-integration.iam.gserviceaccount.com",
-  "client_id": "117906192459240092935",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/demo-fhir%40asynchealth-fhir-integration.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+
